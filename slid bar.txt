@@ -1,0 +1,172 @@
+<!--sidebar start-->
+     <aside>
+      <div id="sidebar" class="nav-collapse ">
+        <!-- sidebar menu start-->
+        <ul class="sidebar-menu" id="nav-accordion">
+          <p class="centered"><a href="profile.php"><img src="img/3.jpg" class="img-circle" width="80"></a></p>
+          
+          <li class="mt">
+            <a href="admin_page.php">
+              <i class="fa fa-dashboard"></i>
+              <span>Dashboard</span>
+              </a>
+          </li>
+
+          <li class="sub-menu">
+            <a class="active" href="javascript:;">
+              <i class="fa fa-address-book-o"></i>
+              <span>Society Members</span>
+              </a>
+            <ul class="sub">
+              <li class="active"><a href="member_list.php">Society Members Details</a></li>
+            </ul>
+          </li>
+
+          <li class="sub-menu">
+            <a href="javascript:;">
+              <i class="fa fa-address-card-o"></i>
+              <span>Committee Members</span>
+              </a>
+            <ul class="sub">
+              <li><a href="blank.php">Committee Members Details</a></li>
+            </ul>
+          </li>
+
+          <li class="sub-menu">
+            <a   href="javascript:;">
+              <i class="fa fa-cc-paypal"></i>
+              <span>Maintance</span>
+              </a>
+            <ul class="sub">
+              <li><a href="Maintance_Details.php">Maintance Details</a></li>
+              <li><a href="Maintance_Pay.php">Maintance Pay</a></li>
+            </ul>
+          </li>
+
+          <li class="sub-menu">
+            <a href="javascript:;">
+              <i class="fa fa-cogs"></i>
+              <span>Components</span>
+              </a>
+            <ul class="sub">
+              <li><a href="calendar.php">Calendar</a></li>
+              <li><a href="gallery.php">Gallery</a></li>
+            </ul>
+          </li>
+
+          <li class="sub-menu">
+            <a href="javascript:;">
+              <i class="fa fa-ambulance"></i>
+              <span>Emergency Contact</span>
+              </a>
+            <ul class="sub">
+              <li><a href="blank.php">Contact</a></li>
+            </ul>
+          </li>
+
+          <li class="sub-menu">
+            <a href="javascript:;">
+              <i class="fa fa-user-secret"></i>
+              <span>Security</span>
+              </a>
+            <ul class="sub">
+              <li><a href="blank.php">Security Gurd Details</a></li>
+            </ul>
+          </li>
+
+          <li class="sub-menu">
+            <a href="javascript:;">
+              <i class="fa fa-car"></i>
+              <span>Visitor</span>
+              </a>
+            <ul class="sub">
+              <li><a href="blank.php">Visitor Records</a></li>
+            </ul>
+          </li>
+
+          <li class="sub-menu">
+            <a href="javascript:;">
+              <i class="fa fa-bullhorn"></i>
+              <span>Notice Board</span>
+              </a>
+            <ul class="sub">
+              <li><a href="blank.php">Notice</a></li>
+            </ul>
+          </li>
+
+          <li class="sub-menu">
+            <a href="javascript:;">
+              <i class="fa fa-balance-scale"></i>
+              <span>Complaints</span>
+              </a>
+            <ul class="sub">
+              <li><a href="blank.php">Complaints</a></li>
+            </ul>
+          </li>
+
+          <li class="sub-menu">
+            <a href="javascript:;">
+              <i class="fa fa-calendar-check-o"></i>
+              <span>Event</span>
+              </a>
+            <ul class="sub">
+              <li><a href="blank.php">Society Events</a></li>
+              <li><a href="blank.php">Booking</a></li>
+            </ul>
+          </li>
+
+          <li class="sub-menu">
+            <a href="javascript:;">
+              <i class="fa fa-facebook"></i>
+              <span>Financial</span>
+              </a>
+            <ul class="sub">
+              <li><a href="member_list.php">Account List</a></li>
+              <li><a href="blank.php">Payment Records</a></li>
+              <li><a href="blank.php">Purchases</a></li>
+              <li><a href="blank.php">Income/Expense</a></li>
+            </ul>
+          </li>
+
+          <li class="sub-menu">
+            <a href="javascript:;">
+              <i class="fa fa-users"></i>
+              <span>Staff</span>
+              </a>
+            <ul class="sub">
+              <li><a href="blank.php">Entry/Exit</a></li>
+              <li><a href="blank.php">Attendees</a></li>
+            </ul>
+          </li>
+
+          <li class="sub-menu">
+            <a href="javascript:;">
+              <i class="fa fa-cart-plus"></i>
+              <span>Service Providers</span>
+              </a>
+            <ul class="sub">
+              <li><a href="blank.php">Contact</a></li>
+            </ul>
+          </li>
+
+          <li class="sub-menu">
+            <a href="javascript:;">
+              <i class="fa fa-info-circle"></i>
+              <span>Society info</span>
+              </a>
+            <ul class="sub">
+              <li><a href="blank.php">Information</a></li>
+            </ul>
+          </li>
+
+          <li>
+            <a href="google_maps.php">
+              <i class="fa fa-map-marker"></i>
+              <span>Google Maps </span>
+              </a>
+          </li>
+        </ul>
+        <!-- sidebar menu end-->
+      </div>
+    </aside>
+    <!--sidebar end-->
